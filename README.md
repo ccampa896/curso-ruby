@@ -146,6 +146,7 @@
 <li>Method Missing</li>
 <li>Self</li>
 <li>Private and Protected</li>
+</ul>
 
 ###
 
@@ -171,6 +172,9 @@ para qual ele deseja traduzir o texto e receba como resposta na tela o texto tra
 <li>O resultado de cada tradução (junto com a frase original) deve ser guardado em um arquivo que possua no nome
 a data e horário da tradução (exemplo: 10-10-18_10:30.txt)</li>
 </ul>
+
+<br>
+
 <p align="justify">Foi utilizada a API da <a href="https://translate.yandex.com/developers/keys" target="_blank">Yandex</a> para realizar as traduções.</p>
 
 ###
